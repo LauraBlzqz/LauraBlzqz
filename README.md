@@ -3,7 +3,7 @@
 <h1 align="center">Hola, soy Laura 👋</h1>
 
 <p align="center">
-  <img src="TU_BANNER_URL" alt="Laura Blázquez Banner" width="100%" />
+  <img src="https://private-user-images.githubusercontent.com/164204988/435475259-ef630e7c-fb43-42a1-a1c0-4e411724a272.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDUxNjExNTIsIm5iZiI6MTc0NTE2MDg1MiwicGF0aCI6Ii8xNjQyMDQ5ODgvNDM1NDc1MjU5LWVmNjMwZTdjLWZiNDMtNDJhMS1hMWMwLTRlNDExNzI0YTI3Mi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNDIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDQyMFQxNDU0MTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yY2Q2YmNjMTAxZTMzZGZiMjdiZjYzY2ZhMTQ2ZmVmNWFlZjk1MjdlNTE1M2NiYmMwNWU2NjE5NzA1ODViZmZjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.IuRheDjdPjz5DxCQwjWyDMEHKxzFCy550hUblKK1BK4" alt="Laura Blázquez Banner" width="100%" />
 </p>
 
 <p align="center">
