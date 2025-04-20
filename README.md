@@ -20,18 +20,22 @@
 ---
 
 ### 🛠️ Tecnologías y herramientas
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![Shopify](https://img.shields.io/badge/-Shopify-333?style=flat&logo=shopify)
-![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
-![VS Code](https://img.shields.io/badge/-VSCode-333?style=flat&logo=visualstudiocode)
+![Python](https://img.shields.io/badge/-Python-FF85C0?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-9C79B0?style=flat&logo=javascript)
+![Shopify](https://img.shields.io/badge/-Shopify-FF85C0?style=flat&logo=shopify)
+![Git](https://img.shields.io/badge/-Git-9C79B0?style=flat&logo=git)
+![VS Code](https://img.shields.io/badge/-VSCode-FF85C0?style=flat&logo=visualstudiocode)
 
 ---
 
 ### 📈 Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LauraBlzqz&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LauraBlzqz&show_icons=true&theme=radical&bg_color=F2E3F5&text_color=9C79B0" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LauraBlzqz&theme=radical" width="48%" />
 </p>
 
 ---
+
+## 🔝 Top used languages
+[![Top Languages](https://github-readme-stats-fork-amber.vercel.app/api/top-langs/?username=LauraBlzqz&layout=compact&langs_count=6&theme=radical&bg_color=F2E3F5&text_color=9C79B0)](https://github.com/LauraBlzqz)
+
