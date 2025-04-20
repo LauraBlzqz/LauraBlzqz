@@ -30,8 +30,8 @@
 
 ### 📈 Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LauraBlzqz&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LauraBlzqz&theme=radical" width="48%" />
 </p>
 
 ---
