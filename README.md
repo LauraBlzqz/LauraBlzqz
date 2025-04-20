@@ -1,16 +1,37 @@
-## Hi there 👋
+<!-- README.md en tu perfil de GitHub -->
 
-<!--
-**LauraBlzqz/LauraBlzqz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hola, soy Laura 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="TU_BANNER_URL" alt="Laura Blázquez Banner" width="100%" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  🧠 Aprendiendo IA + 🛍️ e-commerce lover | Automatizando el futuro 💻✨  
+</p>
+
+---
+
+### 🚀 En qué estoy trabajando
+- 💡 Integrando IA en procesos de e-commerce
+- 🛒 Automatización de tiendas online
+- 📦 Experimentos con recomendaciones inteligentes para productos
+
+---
+
+### 🛠️ Tecnologías y herramientas
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![Shopify](https://img.shields.io/badge/-Shopify-333?style=flat&logo=shopify)
+![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
+![VS Code](https://img.shields.io/badge/-VSCode-333?style=flat&logo=visualstudiocode)
+
+---
+
+### 📈 Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radical" width="48%" />
+</p>
+
+---
