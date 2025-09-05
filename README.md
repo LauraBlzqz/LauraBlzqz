@@ -7,15 +7,14 @@
 </p>
 
 <p align="center">
-  🧠 Aprendiendo IA + 🛍️ e-commerce lover | Automatizando el futuro 💻✨  
+  🧠 Aprendiendo IA + Python | Automatizando el futuro 💻✨  
 </p>
 
 ---
 
 ### 🚀 En qué estoy trabajando
-- 💡 Integrando IA en procesos de e-commerce
-- 🛒 Automatización de tiendas online
-- 📦 Experimentos con recomendaciones inteligentes para productos
+- 💡 Formandome en Python y desarrollo IA
+- 🛒 Automatización
 
 ---
 
